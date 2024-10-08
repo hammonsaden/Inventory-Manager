@@ -1,0 +1,46 @@
+item,BOH,cost,sale_price,profit,sold,on_order,on_display,allocation,department
+Banana,190,0.15,0.5,0.35,156,0,152,152,Produce
+Apple,56,0.3,0.75,0.45,23,0,28,28,Produce
+Pear,36,0.4,1.0,0.6,12,0,15,15,Produce
+Peach,80,0.35,0.9,0.55,45,0,45,52,Produce
+Cherry,152,2.0,4.0,2.0,105,0,75,75,Produce
+Lettuce,18,0.8,2.0,1.2,3,0,12,12,Produce
+Potato,302,0.2,0.75,0.55,143,0,152,156,Produce
+Tomato,56,0.5,1.5,1.0,24,0,42,45,Produce
+Carrot,90,0.25,0.75,0.5,36,0,56,72,Produce
+Grape,250,1.5,3.0,1.5,127,0,76,76,Produce
+Raspberry,125,2.5,5.0,2.5,25,0,56,56,Produce
+Blackberry,102,2.75,5.5,2.75,56,0,56,56,Produce
+Blueberry,86,2.0,4.5,2.5,78,0,23,45,Produce
+Strawberry,253,2.0,4.0,2.0,148,0,185,185,Produce
+Rhubarb,15,1.0,2.5,1.5,2,0,12,12,Produce
+Jalepeno,56,0.8,1.75,0.95,23,0,14,16,Produce
+Serrano,132,0.7,1.5,0.8,45,0,54,54,Produce
+Bell Pepper,156,0.6,1.5,0.9,65,0,35,35,Produce
+Watermelon,30,2.5,6.0,3.5,12,0,18,18,Produce
+Green Bean,47,1.0,2.5,1.5,5,1,17,38,Produce
+Corn,12,0.25,0.75,0.5,35,30,34,34,Produce
+Plum,20,0.5,1.25,0.75,12,0,10,10,Produce
+Kale,49,1.0,2.5,1.5,14,0,34,35,Produce
+Cabbage,26,1.25,3.0,1.75,18,0,12,17,Produce
+Orange,89,0.4,1.0,0.6,56,0,43,56,Produce
+Eggplant,46,1.0,2.5,1.5,42,0,37,37,Produce
+Onion,172,0.3,0.8,0.5,120,0,138,138,Produce
+Zucchini,75,0.4,1.0,0.6,35,0,15,20,Produce
+Squash,65,0.6,1.5,0.9,26,0,42,42,Produce
+Garlic,204,2.0,4.0,2.0,124,0,120,124,Produce
+Ginger,85,1.75,3.5,1.75,45,0,41,49,Produce
+Asparagus,42,2.5,5.0,2.5,27,0,10,28,Produce
+Lemon,75,0.5,1.25,0.75,57,0,35,35,Produce
+Lime,35,0.25,0.75,0.5,58,13,38,38,Produce
+Cantaloupe,26,1.5,4.0,2.5,19,0,12,12,Produce
+Elderberry,78,3.5,7.0,3.5,65,0,34,48,Produce
+Spinach,54,1.0,2.5,1.5,42,0,42,42,Produce
+Grapefruit,24,0.75,1.75,1.0,18,0,10,16,Produce
+Olive,189,2.5,5.0,2.5,124,0,84,104,Produce
+Cauliflower,45,2.0,4.5,2.5,26,0,15,23,Produce
+Broccoli,89,1.5,3.5,2.0,64,0,45,68,Produce
+Cucumber,48,0.4,1.0,0.6,89,23,34,57,Produce
+Milk,70,3.0,4.5,1.5,35,0,52,52,Dairy
+Ribeye,40,10.0,15.0,5.0,30,0,15,15,Meat
+New York Strip,10,8.0,12.0,4.0,2,9,15,15,Meat
