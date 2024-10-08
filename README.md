@@ -1,7 +1,7 @@
 # Inventory-Manager
 
 
-This is a program for my resume. It's a Inventory Manager built using the Python(CustomTkinter, Sqlite3, Tkinter packages), and SQL programming languages.
+This is my first program for my resume. It's a Inventory Manager built using the Python(CustomTkinter, Sqlite3, Tkinter packages), and SQL programming languages.
 
 
 ~ Features ~
